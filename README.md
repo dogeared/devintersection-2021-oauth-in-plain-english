@@ -8,4 +8,4 @@
 * [pkce-cli](https://github.com/oktadeveloper/pkce-cli)
 * [oauth.com](http://oauth.com)
 * [JWT Parser](https://jwt.io)
-* [Free Snyk Account](https://app.snyk.io))
+* [Free Snyk Account](https://app.snyk.io)
